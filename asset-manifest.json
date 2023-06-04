@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myportfolio%20%20%20%20%20%20%20/static/css/main.6c27e2a1.css",
+    "main.js": "/myportfolio%20%20%20%20%20%20%20/static/js/main.859548c6.js",
+    "static/media/reactParallax.jpg": "/myportfolio%20%20%20%20%20%20%20/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
+    "static/media/reactWeather.jpg": "/myportfolio%20%20%20%20%20%20%20/static/media/reactWeather.a1988356c4f5a620716e.jpg",
+    "static/media/myImage.jpeg": "/myportfolio%20%20%20%20%20%20%20/static/media/myImage.c1f41e15b9056fa8e881.jpeg",
+    "static/media/reactSmooth.jpg": "/myportfolio%20%20%20%20%20%20%20/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
+    "static/media/arrayDestruct.jpg": "/myportfolio%20%20%20%20%20%20%20/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
+    "static/media/navbar.jpg": "/myportfolio%20%20%20%20%20%20%20/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
+    "static/media/installNode.jpg": "/myportfolio%20%20%20%20%20%20%20/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/bootstrap.png": "/myportfolio%20%20%20%20%20%20%20/static/media/bootstrap.dc5aebec9acd2ee1057c.png",
+    "static/media/react.png": "/myportfolio%20%20%20%20%20%20%20/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/myportfolio%20%20%20%20%20%20%20/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/myportfolio%20%20%20%20%20%20%20/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/myportfolio%20%20%20%20%20%20%20/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/myportfolio%20%20%20%20%20%20%20/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/myportfolio%20%20%20%20%20%20%20/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/myportfolio%20%20%20%20%20%20%20/index.html",
+    "main.6c27e2a1.css.map": "/myportfolio%20%20%20%20%20%20%20/static/css/main.6c27e2a1.css.map",
+    "main.859548c6.js.map": "/myportfolio%20%20%20%20%20%20%20/static/js/main.859548c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c27e2a1.css",
+    "static/js/main.859548c6.js"
+  ]
+}
